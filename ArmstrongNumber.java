@@ -4,6 +4,7 @@ class ArmstrongNumber{
 		Scanner sc=new Scanner(System.in);
 		System.out.print("\nEnter the number : ");
 		int num=sc.nextInt();
+		sc.close();
 		int value=num;
 		int sum=0;
 		String temp=Integer.toString(num);
