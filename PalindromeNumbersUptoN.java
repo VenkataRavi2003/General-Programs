@@ -21,8 +21,8 @@ public class PalindromeNumbersUptoN{
 	}
 	public static int getValidInput(Scanner sc){
 		while (true) {
-			int N = sc.nextInt();
 			try{
+				int N = sc.nextInt();
 				if(N > 0)return N;
 			    System.out.println("\n"+N+" -> N must greater than zero!");
 			}catch (InputMismatchException e) {
