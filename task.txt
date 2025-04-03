@@ -5,3 +5,10 @@ You can choose the website of your choice.
 on Wed you need to explain your code. 
  
 Make sure to follow the Cucumber BDD approach. Create feature file, then step definitions and runner class.
+
+
+Login to the website
+Search for a product
+Add a product to the cart
+Proceed to checkout
+Logout from the website
