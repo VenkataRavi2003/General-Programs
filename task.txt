@@ -1,0 +1,7 @@
+Implement POM design pattern using Page factory and without using page factory for 5 scenarios using TestNG classes. 
+ 
+You can choose the website of your choice. 
+ 
+on Wed you need to explain your code. 
+ 
+Make sure to follow the Cucumber BDD approach. Create feature file, then step definitions and runner class.
